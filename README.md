@@ -3,7 +3,7 @@ JiYeon, Cheon -- @jiyeon1997
 #### 🔥 Languages 
 * python (intermediate)
 * c (intermediate)
-* PHP (intermediate)
+* PHP (beginner)
 * c++ (beginner)
 * R (beginner)
 
