@@ -19,13 +19,6 @@
 * 간절하거나 정말 재밌는 프로젝트는 최대한 집중하면서 하루 최대 13시간 작업한 적이 있습니다
 * 영어를 잘 다루지 못하지만 영어로 작성하려고 노력합니다
 
-#### ⭐ 제 github에 있는 이러한 repository는 생각보다 볼만할지도 모릅니다 ⭐
-* data-analysis
-* Image-Processing
-* movie-recommender-python
-* youtube-downloader-python
-* machine-learning
-
 #### ⭐ 현재는 이러한 프로젝트를 준비하고 있습니다 ⭐
 * 유튜브 악성댓글 분류기 (진행도 10%)
 * 데이터로봇 (완성되어 8월 중 공개 예정입니다)
