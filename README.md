@@ -16,4 +16,5 @@ JiYeon, Cheon -- @jiyeon1997
 * classification of malicious comment in youtube (ing..)
 
 #### ☎ How to contact me ☎
-* email : kinesis0918@naver.com (check once a day)
+* email : somosdev@hanyang.ac.kr
+* check once a day
